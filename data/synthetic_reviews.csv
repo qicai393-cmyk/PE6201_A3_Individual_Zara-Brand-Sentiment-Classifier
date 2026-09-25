@@ -1,0 +1,201 @@
+﻿comment_id,comment_text,platform,true_category,batch_id,source_type
+1,The Zara blazer started fraying after one wash; not acceptable. Seriously.,Xiaohongshu,quality_complaint,week1,synthetic
+2,The Zara dress started pilling after two wears; not acceptable. I need an update.,Instagram,quality_complaint,week2,synthetic
+3,The Zara trousers started shrinking after three days; not acceptable. This is frustrating.,TikTok,quality_complaint,week3,synthetic
+4,The Zara shirt started coming apart after a week; not acceptable. Please sort this out.,Xiaohongshu,quality_complaint,week1,synthetic
+5,The Zara jacket started losing shape after ten days; not acceptable. Not acceptable.,Instagram,quality_complaint,week2,synthetic
+6,Wore this Zara dress two wears and the zip already pilling 🙃 Seriously.,TikTok,quality_complaint,week1,synthetic
+7,Wore this Zara trousers three days and the lining already shrinking 🙃 I need an update.,Xiaohongshu,quality_complaint,week2,synthetic
+8,Wore this Zara shirt a week and the button already coming apart 🙃 This is frustrating.,Instagram,quality_complaint,week3,synthetic
+9,Wore this Zara jacket ten days and the hem already losing shape 🙃 Please sort this out.,TikTok,quality_complaint,week1,synthetic
+10,Wore this Zara blazer one wash and the seam already fraying 🙃 Not acceptable.,Xiaohongshu,quality_complaint,week2,synthetic
+11,The fabric on my Zara trousers feels cheap and shrinking after washing. Seriously.,Instagram,quality_complaint,week1,synthetic
+12,The fabric on my Zara shirt feels cheap and coming apart after washing. I need an update.,TikTok,quality_complaint,week2,synthetic
+13,The fabric on my Zara jacket feels cheap and losing shape after washing. This is frustrating.,Xiaohongshu,quality_complaint,week3,synthetic
+14,The fabric on my Zara blazer feels cheap and fraying after washing. Please sort this out.,Instagram,quality_complaint,week1,synthetic
+15,The fabric on my Zara dress feels cheap and pilling after washing. Not acceptable.,TikTok,quality_complaint,week2,synthetic
+16,Why is the Zara shirt coming apart already? Expected much better. Seriously.,Xiaohongshu,quality_complaint,week1,synthetic
+17,Why is the Zara jacket losing shape already? Expected much better. I need an update.,Instagram,quality_complaint,week2,synthetic
+18,Why is the Zara blazer fraying already? Expected much better. This is frustrating.,TikTok,quality_complaint,week3,synthetic
+19,Why is the Zara dress pilling already? Expected much better. Please sort this out.,Xiaohongshu,quality_complaint,week1,synthetic
+20,Why is the Zara trousers shrinking already? Expected much better. Not acceptable.,Instagram,quality_complaint,week2,synthetic
+21,"Zara's jacket looked good online, but the hem losing shape immediately. Seriously.",TikTok,quality_complaint,week1,synthetic
+22,"Zara's blazer looked good online, but the seam fraying immediately. I need an update.",Xiaohongshu,quality_complaint,week2,synthetic
+23,"Zara's dress looked good online, but the zip pilling immediately. This is frustrating.",Instagram,quality_complaint,week3,synthetic
+24,"Zara's trousers looked good online, but the lining shrinking immediately. Please sort this out.",TikTok,quality_complaint,week1,synthetic
+25,"Zara's shirt looked good online, but the button coming apart immediately. Not acceptable.",Xiaohongshu,quality_complaint,week2,synthetic
+26,Not impressed: my Zara blazer became fraying after one wash. Seriously.,Instagram,quality_complaint,week1,synthetic
+27,Not impressed: my Zara dress became pilling after two wears. I need an update.,TikTok,quality_complaint,week2,synthetic
+28,Not impressed: my Zara trousers became shrinking after three days. This is frustrating.,Xiaohongshu,quality_complaint,week3,synthetic
+29,Not impressed: my Zara shirt became coming apart after a week. Please sort this out.,Instagram,quality_complaint,week1,synthetic
+30,Not impressed: my Zara jacket became losing shape after ten days. Not acceptable.,TikTok,quality_complaint,week2,synthetic
+31,The stitching on this Zara dress is awful; it pilling on day one. Seriously.,Xiaohongshu,quality_complaint,week1,synthetic
+32,The stitching on this Zara trousers is awful; it shrinking on day one. I need an update.,Instagram,quality_complaint,week2,synthetic
+33,The stitching on this Zara shirt is awful; it coming apart on day one. This is frustrating.,TikTok,quality_complaint,week3,synthetic
+34,The stitching on this Zara jacket is awful; it losing shape on day one. Please sort this out.,Xiaohongshu,quality_complaint,week1,synthetic
+35,The stitching on this Zara blazer is awful; it fraying on day one. Not acceptable.,Instagram,quality_complaint,week2,synthetic
+36,Zara quality check missed this: the trousers arrived with a shrinking lining. Seriously.,TikTok,quality_complaint,week1,synthetic
+37,Zara quality check missed this: the shirt arrived with a coming apart button. I need an update.,Xiaohongshu,quality_complaint,week2,synthetic
+38,Zara quality check missed this: the jacket arrived with a losing shape hem. This is frustrating.,Instagram,quality_complaint,week3,synthetic
+39,Zara quality check missed this: the blazer arrived with a fraying seam. Please sort this out.,TikTok,quality_complaint,week1,synthetic
+40,Zara quality check missed this: the dress arrived with a pilling zip. Not acceptable.,Xiaohongshu,quality_complaint,week2,synthetic
+41,My Zara order has been stuck in transit for one wash. Where is it? Seriously.,Instagram,logistics_complaint,week1,synthetic
+42,My Zara order has been stuck in transit for two wears. Where is it? I need an update.,TikTok,logistics_complaint,week2,synthetic
+43,My Zara order has been stuck in transit for three days. Where is it? This is frustrating.,Xiaohongshu,logistics_complaint,week3,synthetic
+44,My Zara order has been stuck in transit for a week. Where is it? Please sort this out.,Instagram,logistics_complaint,week3,synthetic
+45,My Zara order has been stuck in transit for ten days. Where is it? Not acceptable.,TikTok,logistics_complaint,week3,synthetic
+46,"The Zara parcel says delivered, but nothing is at my door. Seriously.",Xiaohongshu,logistics_complaint,week1,synthetic
+47,"The Zara parcel says delivered, but nothing is at my door. I need an update.",Instagram,logistics_complaint,week2,synthetic
+48,"The Zara parcel says delivered, but nothing is at my door. This is frustrating.",TikTok,logistics_complaint,week3,synthetic
+49,"The Zara parcel says delivered, but nothing is at my door. Please sort this out.",Xiaohongshu,logistics_complaint,week3,synthetic
+50,"The Zara parcel says delivered, but nothing is at my door. Not acceptable.",Instagram,logistics_complaint,week3,synthetic
+51,Paid for Zara express shipping and it still arrived three days late. Seriously.,TikTok,logistics_complaint,week1,synthetic
+52,Paid for Zara express shipping and it still arrived a week late. I need an update.,Xiaohongshu,logistics_complaint,week2,synthetic
+53,Paid for Zara express shipping and it still arrived ten days late. This is frustrating.,Instagram,logistics_complaint,week3,synthetic
+54,Paid for Zara express shipping and it still arrived one wash late. Please sort this out.,TikTok,logistics_complaint,week3,synthetic
+55,Paid for Zara express shipping and it still arrived two wears late. Not acceptable.,Xiaohongshu,logistics_complaint,week3,synthetic
+56,Zara sent my shirt to the wrong pickup point again. Seriously.,Instagram,logistics_complaint,week1,synthetic
+57,Zara sent my jacket to the wrong pickup point again. I need an update.,TikTok,logistics_complaint,week2,synthetic
+58,Zara sent my blazer to the wrong pickup point again. This is frustrating.,Xiaohongshu,logistics_complaint,week3,synthetic
+59,Zara sent my dress to the wrong pickup point again. Please sort this out.,Instagram,logistics_complaint,week3,synthetic
+60,Zara sent my trousers to the wrong pickup point again. Not acceptable.,TikTok,logistics_complaint,week3,synthetic
+61,Tracking has not moved for ten days; Zara delivery is a mess. Seriously.,Xiaohongshu,logistics_complaint,week1,synthetic
+62,Tracking has not moved for one wash; Zara delivery is a mess. I need an update.,Instagram,logistics_complaint,week2,synthetic
+63,Tracking has not moved for two wears; Zara delivery is a mess. This is frustrating.,TikTok,logistics_complaint,week3,synthetic
+64,Tracking has not moved for three days; Zara delivery is a mess. Please sort this out.,Xiaohongshu,logistics_complaint,week3,synthetic
+65,Tracking has not moved for a week; Zara delivery is a mess. Not acceptable.,Instagram,logistics_complaint,week3,synthetic
+66,My Zara package arrived with the box crushed and the blazer damaged. Seriously.,TikTok,logistics_complaint,week1,synthetic
+67,My Zara package arrived with the box crushed and the dress damaged. I need an update.,Xiaohongshu,logistics_complaint,week2,synthetic
+68,My Zara package arrived with the box crushed and the trousers damaged. This is frustrating.,Instagram,logistics_complaint,week3,synthetic
+69,My Zara package arrived with the box crushed and the shirt damaged. Please sort this out.,TikTok,logistics_complaint,week3,synthetic
+70,My Zara package arrived with the box crushed and the jacket damaged. Not acceptable.,Xiaohongshu,logistics_complaint,week3,synthetic
+71,"The courier skipped my address, yet Zara marked the order delivered. Seriously.",Instagram,logistics_complaint,week1,synthetic
+72,"The courier skipped my address, yet Zara marked the order delivered. I need an update.",TikTok,logistics_complaint,week2,synthetic
+73,"The courier skipped my address, yet Zara marked the order delivered. This is frustrating.",Xiaohongshu,logistics_complaint,week3,synthetic
+74,"The courier skipped my address, yet Zara marked the order delivered. Please sort this out.",Instagram,logistics_complaint,week3,synthetic
+75,"The courier skipped my address, yet Zara marked the order delivered. Not acceptable.",TikTok,logistics_complaint,week3,synthetic
+76,Still waiting for a Zara refund because the return parcel has not been processed. Seriously.,Xiaohongshu,logistics_complaint,week1,synthetic
+77,Still waiting for a Zara refund because the return parcel has not been processed. I need an update.,Instagram,logistics_complaint,week2,synthetic
+78,Still waiting for a Zara refund because the return parcel has not been processed. This is frustrating.,TikTok,logistics_complaint,week3,synthetic
+79,Still waiting for a Zara refund because the return parcel has not been processed. Please sort this out.,Xiaohongshu,logistics_complaint,week3,synthetic
+80,Still waiting for a Zara refund because the return parcel has not been processed. Not acceptable.,Instagram,logistics_complaint,week3,synthetic
+81,This Zara blazer is less durable than my H&M one. Seriously.,TikTok,competitor_comparison,week1,synthetic
+82,This Zara dress is less durable than my Uniqlo one. I need an update.,Xiaohongshu,competitor_comparison,week2,synthetic
+83,This Zara trousers is less durable than my Mango one. This is frustrating.,Instagram,competitor_comparison,week3,synthetic
+84,This Zara shirt is less durable than my COS one. Please sort this out.,TikTok,competitor_comparison,week1,synthetic
+85,This Zara jacket is less durable than my Massimo Dutti one. Not acceptable.,Xiaohongshu,competitor_comparison,week2,synthetic
+86,"For the same money, Uniqlo has better fabric than Zara. Seriously.",Instagram,competitor_comparison,week1,synthetic
+87,"For the same money, Mango has better fabric than Zara. I need an update.",TikTok,competitor_comparison,week2,synthetic
+88,"For the same money, COS has better fabric than Zara. This is frustrating.",Xiaohongshu,competitor_comparison,week3,synthetic
+89,"For the same money, Massimo Dutti has better fabric than Zara. Please sort this out.",Instagram,competitor_comparison,week1,synthetic
+90,"For the same money, H&M has better fabric than Zara. Not acceptable.",TikTok,competitor_comparison,week2,synthetic
+91,I would choose Mango over Zara next time; the fit is better. Seriously.,Xiaohongshu,competitor_comparison,week1,synthetic
+92,I would choose COS over Zara next time; the fit is better. I need an update.,Instagram,competitor_comparison,week2,synthetic
+93,I would choose Massimo Dutti over Zara next time; the fit is better. This is frustrating.,TikTok,competitor_comparison,week3,synthetic
+94,I would choose H&M over Zara next time; the fit is better. Please sort this out.,Xiaohongshu,competitor_comparison,week1,synthetic
+95,I would choose Uniqlo over Zara next time; the fit is better. Not acceptable.,Instagram,competitor_comparison,week2,synthetic
+96,"Zara's shirt looks nice, but COS lasts much longer. Seriously.",TikTok,competitor_comparison,week1,synthetic
+97,"Zara's jacket looks nice, but Massimo Dutti lasts much longer. I need an update.",Xiaohongshu,competitor_comparison,week2,synthetic
+98,"Zara's blazer looks nice, but H&M lasts much longer. This is frustrating.",Instagram,competitor_comparison,week3,synthetic
+99,"Zara's dress looks nice, but Uniqlo lasts much longer. Please sort this out.",TikTok,competitor_comparison,week1,synthetic
+100,"Zara's trousers looks nice, but Mango lasts much longer. Not acceptable.",Xiaohongshu,competitor_comparison,week2,synthetic
+101,"Compared with Massimo Dutti, Zara's customer experience feels dated. Seriously.",Instagram,competitor_comparison,week1,synthetic
+102,"Compared with H&M, Zara's customer experience feels dated. I need an update.",TikTok,competitor_comparison,week2,synthetic
+103,"Compared with Uniqlo, Zara's customer experience feels dated. This is frustrating.",Xiaohongshu,competitor_comparison,week3,synthetic
+104,"Compared with Mango, Zara's customer experience feels dated. Please sort this out.",Instagram,competitor_comparison,week1,synthetic
+105,"Compared with COS, Zara's customer experience feels dated. Not acceptable.",TikTok,competitor_comparison,week2,synthetic
+106,My H&M version was cheaper and better made than this Zara piece. Seriously.,Xiaohongshu,competitor_comparison,week1,synthetic
+107,My Uniqlo version was cheaper and better made than this Zara piece. I need an update.,Instagram,competitor_comparison,week2,synthetic
+108,My Mango version was cheaper and better made than this Zara piece. This is frustrating.,TikTok,competitor_comparison,week3,synthetic
+109,My COS version was cheaper and better made than this Zara piece. Please sort this out.,Xiaohongshu,competitor_comparison,week1,synthetic
+110,My Massimo Dutti version was cheaper and better made than this Zara piece. Not acceptable.,Instagram,competitor_comparison,week2,synthetic
+111,Zara should learn from Uniqlo; their delivery is much smoother. Seriously.,TikTok,competitor_comparison,week1,synthetic
+112,Zara should learn from Mango; their delivery is much smoother. I need an update.,Xiaohongshu,competitor_comparison,week2,synthetic
+113,Zara should learn from COS; their delivery is much smoother. This is frustrating.,Instagram,competitor_comparison,week3,synthetic
+114,Zara should learn from Massimo Dutti; their delivery is much smoother. Please sort this out.,TikTok,competitor_comparison,week1,synthetic
+115,Zara should learn from H&M; their delivery is much smoother. Not acceptable.,Xiaohongshu,competitor_comparison,week2,synthetic
+116,Tried both Zara and Mango; Mango wins on quality. Seriously.,Instagram,competitor_comparison,week1,synthetic
+117,Tried both Zara and COS; COS wins on quality. I need an update.,TikTok,competitor_comparison,week2,synthetic
+118,Tried both Zara and Massimo Dutti; Massimo Dutti wins on quality. This is frustrating.,Xiaohongshu,competitor_comparison,week3,synthetic
+119,Tried both Zara and H&M; H&M wins on quality. Please sort this out.,Instagram,competitor_comparison,week1,synthetic
+120,Tried both Zara and Uniqlo; Uniqlo wins on quality. Not acceptable.,TikTok,competitor_comparison,week2,synthetic
+121,This Zara blazer is too expensive for the material used. Seriously.,Xiaohongshu,price_sensitive,week1,synthetic
+122,This Zara dress is too expensive for the material used. I need an update.,Instagram,price_sensitive,week2,synthetic
+123,This Zara trousers is too expensive for the material used. This is frustrating.,TikTok,price_sensitive,week3,synthetic
+124,This Zara shirt is too expensive for the material used. Please sort this out.,Xiaohongshu,price_sensitive,week1,synthetic
+125,This Zara jacket is too expensive for the material used. Not acceptable.,Instagram,price_sensitive,week2,synthetic
+126,Waiting for a Zara sale because full price is not worth it. Seriously.,TikTok,price_sensitive,week1,synthetic
+127,Waiting for a Zara sale because full price is not worth it. I need an update.,Xiaohongshu,price_sensitive,week2,synthetic
+128,Waiting for a Zara sale because full price is not worth it. This is frustrating.,Instagram,price_sensitive,week3,synthetic
+129,Waiting for a Zara sale because full price is not worth it. Please sort this out.,TikTok,price_sensitive,week1,synthetic
+130,Waiting for a Zara sale because full price is not worth it. Not acceptable.,Xiaohongshu,price_sensitive,week2,synthetic
+131,Why did this Zara trousers become more expensive again? Seriously.,Instagram,price_sensitive,week1,synthetic
+132,Why did this Zara shirt become more expensive again? I need an update.,TikTok,price_sensitive,week2,synthetic
+133,Why did this Zara jacket become more expensive again? This is frustrating.,Xiaohongshu,price_sensitive,week3,synthetic
+134,Why did this Zara blazer become more expensive again? Please sort this out.,Instagram,price_sensitive,week1,synthetic
+135,Why did this Zara dress become more expensive again? Not acceptable.,TikTok,price_sensitive,week2,synthetic
+136,The Zara price dropped right after I bought the shirt 😭 Seriously.,Xiaohongshu,price_sensitive,week1,synthetic
+137,The Zara price dropped right after I bought the jacket 😭 I need an update.,Instagram,price_sensitive,week2,synthetic
+138,The Zara price dropped right after I bought the blazer 😭 This is frustrating.,TikTok,price_sensitive,week3,synthetic
+139,The Zara price dropped right after I bought the dress 😭 Please sort this out.,Xiaohongshu,price_sensitive,week1,synthetic
+140,The Zara price dropped right after I bought the trousers 😭 Not acceptable.,Instagram,price_sensitive,week2,synthetic
+141,"I like the Zara design, but the jacket is outside my budget. Seriously.",TikTok,price_sensitive,week1,synthetic
+142,"I like the Zara design, but the blazer is outside my budget. I need an update.",Xiaohongshu,price_sensitive,week2,synthetic
+143,"I like the Zara design, but the dress is outside my budget. This is frustrating.",Instagram,price_sensitive,week3,synthetic
+144,"I like the Zara design, but the trousers is outside my budget. Please sort this out.",TikTok,price_sensitive,week1,synthetic
+145,"I like the Zara design, but the shirt is outside my budget. Not acceptable.",Xiaohongshu,price_sensitive,week2,synthetic
+146,No way I am paying full price for this Zara blazer. Seriously.,Instagram,price_sensitive,week1,synthetic
+147,No way I am paying full price for this Zara dress. I need an update.,TikTok,price_sensitive,week2,synthetic
+148,No way I am paying full price for this Zara trousers. This is frustrating.,Xiaohongshu,price_sensitive,week3,synthetic
+149,No way I am paying full price for this Zara shirt. Please sort this out.,Instagram,price_sensitive,week1,synthetic
+150,No way I am paying full price for this Zara jacket. Not acceptable.,TikTok,price_sensitive,week2,synthetic
+151,Zara needs a better discount; this dress is poor value. Seriously.,Xiaohongshu,price_sensitive,week1,synthetic
+152,Zara needs a better discount; this trousers is poor value. I need an update.,Instagram,price_sensitive,week2,synthetic
+153,Zara needs a better discount; this shirt is poor value. This is frustrating.,TikTok,price_sensitive,week3,synthetic
+154,Zara needs a better discount; this jacket is poor value. Please sort this out.,Xiaohongshu,price_sensitive,week1,synthetic
+155,Zara needs a better discount; this blazer is poor value. Not acceptable.,Instagram,price_sensitive,week2,synthetic
+156,"The coupon did not work, so I left the Zara trousers in my cart. Seriously.",TikTok,price_sensitive,week1,synthetic
+157,"The coupon did not work, so I left the Zara shirt in my cart. I need an update.",Xiaohongshu,price_sensitive,week2,synthetic
+158,"The coupon did not work, so I left the Zara jacket in my cart. This is frustrating.",Instagram,price_sensitive,week3,synthetic
+159,"The coupon did not work, so I left the Zara blazer in my cart. Please sort this out.",TikTok,price_sensitive,week1,synthetic
+160,"The coupon did not work, so I left the Zara dress in my cart. Not acceptable.",Xiaohongshu,price_sensitive,week2,synthetic
+161,Love the cut of this Zara blazer; it looks great in person. Seriously.,Instagram,other,week1,synthetic
+162,Love the cut of this Zara dress; it looks great in person. I need an update.,TikTok,other,week2,synthetic
+163,Love the cut of this Zara trousers; it looks great in person. This is frustrating.,Xiaohongshu,other,week3,synthetic
+164,Love the cut of this Zara shirt; it looks great in person. Please sort this out.,Instagram,other,week1,synthetic
+165,Love the cut of this Zara jacket; it looks great in person. Not acceptable.,TikTok,other,week2,synthetic
+166,Does anyone know whether this Zara dress runs small? Seriously.,Xiaohongshu,other,week1,synthetic
+167,Does anyone know whether this Zara trousers runs small? I need an update.,Instagram,other,week2,synthetic
+168,Does anyone know whether this Zara shirt runs small? This is frustrating.,TikTok,other,week3,synthetic
+169,Does anyone know whether this Zara jacket runs small? Please sort this out.,Xiaohongshu,other,week1,synthetic
+170,Does anyone know whether this Zara blazer runs small? Not acceptable.,Instagram,other,week2,synthetic
+171,The Zara store assistant helped me find the right size today. Seriously.,TikTok,other,week1,synthetic
+172,The Zara store assistant helped me find the right size today. I need an update.,Xiaohongshu,other,week2,synthetic
+173,The Zara store assistant helped me find the right size today. This is frustrating.,Instagram,other,week3,synthetic
+174,The Zara store assistant helped me find the right size today. Please sort this out.,TikTok,other,week1,synthetic
+175,The Zara store assistant helped me find the right size today. Not acceptable.,Xiaohongshu,other,week2,synthetic
+176,Just picked up a Zara shirt and I am excited to style it. Seriously.,Instagram,other,week1,synthetic
+177,Just picked up a Zara jacket and I am excited to style it. I need an update.,TikTok,other,week2,synthetic
+178,Just picked up a Zara blazer and I am excited to style it. This is frustrating.,Xiaohongshu,other,week3,synthetic
+179,Just picked up a Zara dress and I am excited to style it. Please sort this out.,Instagram,other,week1,synthetic
+180,Just picked up a Zara trousers and I am excited to style it. Not acceptable.,TikTok,other,week2,synthetic
+181,Zara's new jacket collection is exactly my kind of look. Seriously.,Xiaohongshu,other,week1,synthetic
+182,Zara's new blazer collection is exactly my kind of look. I need an update.,Instagram,other,week2,synthetic
+183,Zara's new dress collection is exactly my kind of look. This is frustrating.,TikTok,other,week3,synthetic
+184,Zara's new trousers collection is exactly my kind of look. Please sort this out.,Xiaohongshu,other,week1,synthetic
+185,Zara's new shirt collection is exactly my kind of look. Not acceptable.,Instagram,other,week2,synthetic
+186,Can this Zara blazer be exchanged in a different country? Seriously.,TikTok,other,week1,synthetic
+187,Can this Zara dress be exchanged in a different country? I need an update.,Xiaohongshu,other,week2,synthetic
+188,Can this Zara trousers be exchanged in a different country? This is frustrating.,Instagram,other,week3,synthetic
+189,Can this Zara shirt be exchanged in a different country? Please sort this out.,TikTok,other,week1,synthetic
+190,Can this Zara jacket be exchanged in a different country? Not acceptable.,Xiaohongshu,other,week2,synthetic
+191,The Zara app made it easy to check whether my dress was in stock. Seriously.,Instagram,other,week1,synthetic
+192,The Zara app made it easy to check whether my trousers was in stock. I need an update.,TikTok,other,week2,synthetic
+193,The Zara app made it easy to check whether my shirt was in stock. This is frustrating.,Xiaohongshu,other,week3,synthetic
+194,The Zara app made it easy to check whether my jacket was in stock. Please sort this out.,Instagram,other,week1,synthetic
+195,The Zara app made it easy to check whether my blazer was in stock. Not acceptable.,TikTok,other,week2,synthetic
+196,Really like the colour and silhouette of this Zara trousers. Seriously.,Xiaohongshu,other,week1,synthetic
+197,Really like the colour and silhouette of this Zara shirt. I need an update.,Instagram,other,week2,synthetic
+198,Really like the colour and silhouette of this Zara jacket. This is frustrating.,TikTok,other,week3,synthetic
+199,Really like the colour and silhouette of this Zara blazer. Please sort this out.,Xiaohongshu,other,week1,synthetic
+200,Really like the colour and silhouette of this Zara dress. Not acceptable.,Instagram,other,week2,synthetic
