@@ -1,0 +1,2 @@
+﻿n,threshold,abstention_rate,non_abstained_accuracy,forced_choice_accuracy,keyword_baseline_accuracy
+30,0.3,0.0,0.8,0.8,0.5
