@@ -7,12 +7,11 @@ Classifies brand social comments into 5 risk categories (quality_complaint, logi
 Two foundation models were benchmarked via OpenRouter. DeepSeek-V3.2 was selected as the primary model due to higher synthetic accuracy and better-calibrated abstention.
 | Model | Dataset | N | Accuracy | Abstention | Keyword Baseline |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| DeepSeek-V3.2 | Synthetic | 200 | 94.9% | 2.0% | 76.0% |
-| DeepSeek-V3.2 | Real held-out | 30 | 82.8% | 3.3% | 66.7% |
+| DeepSeek-V3.2 | Synthetic | 200 | 94.92% | 1.5% | 76.0% |
+| DeepSeek-V3.2 | Real held-out | 30 | 83.3% | 0.0% | 66.7% |
 | Qwen-2.5-72B-instruct | Synthetic | 200 | 89.5% | 0.0% | 76.0% |
 | Qwen-2.5-72B-instruct | Real held-out | 30 | 83.3% | 0.0% | 66.7% |
 - Threshold: 0.3 (calibrated on a 20-comment development slice, balancing abstention ≤15% and non-abstained accuracy).
-- Keyword baseline uses an expanded English vocabulary covering shoddy, rip, loses shape, wrong pickup, etc.
 - Error pattern: Both models fail on multi-dimensional comments (e.g., price + quality mixed) and neutral statements that mention quality keywords without complaining.
 
 ## Files
