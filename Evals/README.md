@@ -17,15 +17,24 @@ Forced-choice accuracy is the raw percentage correct. Non-abstained accuracy exc
 
 | Metric | Qwen 2.5 72B | DeepSeek-V3 |
 |---|---:|---:|
-| Synthetic accuracy | 89.5% | 95.0% |
-| Synthetic macro-F1 | 89.5% | 95.1% |
-| Real accuracy | 83.3% | 83.3% |
-| Real balanced accuracy | 80.7% | 81.3% |
-| Real macro-F1 | 81.8% | 83.5% |
-| Real abstention | 0.0% | 3.3% |
-| Real keyword baseline | 66.7% | 66.7% |
+| Synthetic forced-choice accuracy | 89.50% | 95.00% |
+| Synthetic balanced accuracy | 89.50% | 95.00% |
+| Synthetic macro-F1 | 89.51% | 95.03% |
+| Synthetic abstention | 0.00% | 1.50% |
+| Real forced-choice accuracy | 83.33% | 83.33% |
+| Real non-abstained accuracy | 83.33% | 83.33% |
+| Real balanced accuracy | 80.67% | 81.33% |
+| Real macro-F1 | 81.85% | 83.47% |
+| Real abstention | 0.00% | 0.00% |
+| Real keyword baseline | 66.67% | 66.67% |
 
-Both models meet the targets: synthetic accuracy at least 85%, real accuracy at least 75%, and abstention at most 15%. DeepSeek-V3 is selected because it is stronger on synthetic data and slightly better on real equal-weight metrics. Thirty real examples are not sufficient to claim a decisive universal advantage.
+Both models meet the project targets: synthetic accuracy at least 85%, real accuracy at least 75%, and abstention no higher than 15%. DeepSeek-V3 is selected because it has a 5.5-point synthetic accuracy advantage and slightly stronger equal-weight real metrics. Both models correctly classify 25 of 30 real records, so this is a practical selection rather than a conclusive universal performance claim.
+
+## Error and alert interpretation
+
+DeepSeek makes 10 synthetic raw-label errors: five logistics comments are predicted as quality, while five other comments are predicted as quality or logistics. Its real set has five raw-label errors: one competitor comparison and one logistics complaint are predicted as quality, two other comments are predicted as quality, and one price-sensitive comment is predicted as other.
+
+Both model runs produce Green alerts in weeks one and two and a Yellow alert in week three because logistics complaints rise by at least ten percentage points. This validates the deterministic alert rule on the planned simulation. It does not yet measure real-world alert precision.
 
 ## Outputs
 
